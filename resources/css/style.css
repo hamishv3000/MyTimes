@@ -56,7 +56,10 @@ div {
 .content{
   display: flex;
   width: 1232px;
-  margin: 0 auto 78px auto;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 78px;
+  margin-left: auto;
   padding-top: 116px;
 }
 
